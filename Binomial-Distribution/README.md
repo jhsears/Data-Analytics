@@ -1,4 +1,4 @@
-R Project II: Sampling Distributions
+# R Project II: Sampling Distributions
 
 In this project you will explore the binomial distribution and its normal approximation and simulate a sampling distribution of a sample proportion.
 
